@@ -29,7 +29,7 @@ This is a simple Go application for uploading files to Slack channels using the 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/slack-file-uploader.git
+    git clone https://github.com/Mayejacob/go-file-uploader.git
     ```
 
 2. Navigate to the project directory:
